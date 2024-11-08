@@ -2,7 +2,6 @@
 
 //Problem 4---->
 
-// Define the types for Circle and Rectangle with unique 'shape' properties
 type Circle = {
     shape: "circle";
     radius: number;
